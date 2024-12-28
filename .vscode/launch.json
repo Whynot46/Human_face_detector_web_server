@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-HumanDetectorApplication<human_detector>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.doslab.human_detector.HumanDetectorApplication",
+            "projectName": "human_detector",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
